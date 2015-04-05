@@ -4,9 +4,13 @@
 
 ![ascii](http://i.imgur.com/PdUNMwF.png)
 
+[(glslbin demo)](http://glslb.in/s/ac0fbbef)
+
 A simple ASCII post-processing effect in GLSL, [original here](https://www.shadertoy.com/view/lssGDj) by @movAX13h. 
 
 ```glsl
+#pragma glslify: asciiFilter = require('glsl-ascii-filter')
+
 void main() {
   vec4 color = texture2D(u_sampler, uv);
 
