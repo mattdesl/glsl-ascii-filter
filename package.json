@@ -1,0 +1,40 @@
+{
+  "name": "glsl-ascii-filter",
+  "version": "1.0.0",
+  "description": "faux ASCII post-processing effect in GLSL",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "glsl-luma": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "glsl",
+    "glslify",
+    "glslbin",
+    "ascii",
+    "filter",
+    "post",
+    "process",
+    "post-process",
+    "postprocess",
+    "processing",
+    "bitmap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/glsl-ascii-filter.git"
+  },
+  "homepage": "https://github.com/mattdesl/glsl-ascii-filter",
+  "bugs": {
+    "url": "https://github.com/mattdesl/glsl-ascii-filter/issues"
+  }
+}
