@@ -1,6 +1,6 @@
 {
   "name": "glsl-ascii-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "faux ASCII post-processing effect in GLSL",
   "main": "index.js",
   "license": "MIT",
